@@ -1,4 +1,0 @@
-/home/alexey/projects/A1_Maze-0/src/build/CMakeFiles/maze.dir
-/home/alexey/projects/A1_Maze-0/src/build/CMakeFiles/edit_cache.dir
-/home/alexey/projects/A1_Maze-0/src/build/CMakeFiles/rebuild_cache.dir
-/home/alexey/projects/A1_Maze-0/src/build/CMakeFiles/maze_autogen.dir
